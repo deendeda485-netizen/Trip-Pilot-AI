@@ -15,25 +15,25 @@ export default function Home() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           <DestinationCard
-            emoji="🦁"
+            image="https://images.unsplash.com/photo-1516026672322-bc52d61a55d5"
             country="Kenya"
             description="Discover breathtaking safaris and rich cultural experiences."
           />
 
           <DestinationCard
-            emoji="🏝️"
+            image="https://images.unsplash.com/photo-1537953773345-d172ccf13cf1"
             country="Bali"
             description="Relax on tropical beaches and enjoy stunning sunsets."
           />
 
           <DestinationCard
-            emoji="🗼"
+            image="https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
             country="Paris"
             description="Explore world-famous landmarks and incredible cuisine."
           />
 
           <DestinationCard
-            emoji="🏔️"
+            image="https://images.unsplash.com/photo-1506744038136-46273834b3fb"
             country="Switzerland"
             description="Experience majestic mountains and unforgettable scenery."
           />
